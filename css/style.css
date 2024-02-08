@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    
+    text-align: center;
+    background-color: rgb(96, 170, 240);
+    height: 55px;
+}
+.main{
+    display: flex;
+}
+.leftpane{
+    color: white;
+    background-color: rgb(16, 17, 70);
+    width: 25%;
+    height: 530px;
+}
+.body{
+    background-color: royalblue ;
+    width: 50%;
+    height: 530px;
+}
+.prebody{
+    color: white;
+    text-align: center;
+    background-color: rgb(146, 122, 235);
+    height: 100px;
+}
+.middle{
+    background-color: bisque;
+    height: 330px;
+}
+.postbody{
+    color: white;
+    text-align: center;
+    background-color: darkblue;
+    height: 100px;
+}
+
+.rightpane{
+    color: white;
+    background-color: lightseagreen;
+    width: 25%;
+    height:530px;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(96, 170, 240);
+    height: 55px;
+}
